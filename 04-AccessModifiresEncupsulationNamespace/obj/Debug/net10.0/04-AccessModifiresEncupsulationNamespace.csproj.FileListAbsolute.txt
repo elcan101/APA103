@@ -1,0 +1,15 @@
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\bin\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.exe
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\bin\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.deps.json
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\bin\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.runtimeconfig.json
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\bin\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.dll
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\bin\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.pdb
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.AssemblyInfoInputs.cache
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.AssemblyInfo.cs
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.csproj.CoreCompileInputs.cache
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.sourcelink.json
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.dll
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\refint\04-AccessModifiresEncupsulationNamespace.dll
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.pdb
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\04-AccessModifiresEncupsulationNamespace.genruntimeconfig.cache
+C:\Users\Elcan\Desktop\APA103\04-AccessModifiresEncupsulationNamespace\obj\Debug\net10.0\ref\04-AccessModifiresEncupsulationNamespace.dll
