@@ -35,6 +35,7 @@ Student student3 = new Student(
     68.5,
     2
 );
+
 Console.WriteLine(student1.CalculateScholarship());
 Console.WriteLine(student2.CalculateScholarship());
 Console.WriteLine(student3.CalculateScholarship());
@@ -65,6 +66,7 @@ Teacher teacher2 = new Teacher(
     850,
     8
 );
+Console.WriteLine(teacher1.ShowTeacherInfo);
 Console.WriteLine(teacher1.CalculateSalary());
 Console.WriteLine(teacher2.CalculateSalary());
 

@@ -24,6 +24,7 @@ namespace _03_ObjectClassConstructorInheritanceThisvsBase
         
         public void ShowTeacherInfo()
         {
+            ShowBasicInfo();
             Console.WriteLine($"Department: {Department} MainSubject: {MainSubject} BaseSalary: {BaseSalary} ExperienceYears: {ExperienceYears}");
         }
 
