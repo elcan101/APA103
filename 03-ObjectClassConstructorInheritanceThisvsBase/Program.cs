@@ -66,7 +66,7 @@ Teacher teacher2 = new Teacher(
     850,
     8
 );
-Console.WriteLine(teacher1.ShowTeacherInfo);
+
 Console.WriteLine(teacher1.CalculateSalary());
 Console.WriteLine(teacher2.CalculateSalary());
 

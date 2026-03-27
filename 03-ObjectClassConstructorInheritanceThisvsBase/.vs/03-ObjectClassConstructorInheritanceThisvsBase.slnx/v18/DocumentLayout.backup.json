@@ -3,14 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -19,8 +11,16 @@
       "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:administrator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|c:\\users\\elcan\\desktop\\apa103\\03-objectclassconstructorinheritancethisvsbase\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4926F3F1-A2AD-693F-70D3-4DD100647C68}|03-ObjectClassConstructorInheritanceThisvsBase.csproj|solutionrelative:teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,69 +30,66 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 4,
               "Title": "Teacher.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
               "RelativeDocumentMoniker": "Teacher.cs",
-              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs*",
-              "RelativeToolTip": "Teacher.cs*",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBoAAAAcAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Teacher.cs",
+              "RelativeToolTip": "Teacher.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBoAAAALAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:06:20.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T16:06:20.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "Person.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
               "RelativeDocumentMoniker": "Person.cs",
               "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Person.cs",
               "RelativeToolTip": "Person.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBwAAAAjAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwCEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T16:05:57.671Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Administrator.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
               "RelativeDocumentMoniker": "Administrator.cs",
               "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Administrator.cs",
               "RelativeToolTip": "Administrator.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBcAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:05:22.998Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T16:05:22.998Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
               "RelativeDocumentMoniker": "Student.cs",
               "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Student.cs",
               "RelativeToolTip": "Student.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAALAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwBkAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-16T16:03:00.577Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-16T16:03:00.577Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAEQAAAAqAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\03-ObjectClassConstructorInheritanceThisvsBase\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-16T16:02:11.69Z",
               "EditorCaption": ""

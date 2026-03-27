@@ -21,6 +21,7 @@ namespace _03_ObjectClassConstructorInheritanceThisvsBase
 //GrantAccess(Student student) - Tələbəyə sistem girişi verir(console mesajı çap edir)
         public void ShowAdminInfo()
         {
+            ShowBasicInfo();
             Console.WriteLine($"Position: {Position} Department: {Department} AccessLevel1: {AccessLevel}");
         }
 

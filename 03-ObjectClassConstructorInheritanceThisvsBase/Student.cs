@@ -23,7 +23,7 @@ namespace _03_ObjectClassConstructorInheritanceThisvsBase
 
         public void ShowStudentInfo()
         {
-           
+           ShowBasicInfo();
             Console.WriteLine($"Student Number: {StudentNumber} Faculty: {Faculty} GPA: {GPA} Year: {Year}");
           
         }

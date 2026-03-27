@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Elcan\\Desktop\\APA103\\06-InterfaceAbstraction\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:models\\calculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\itoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\itoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\itoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\itoplama.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\icalculation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\icixma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\icixma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\icixma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\icixma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\ivurma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\ivurma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\ivurma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\ivurma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\ibolme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7AD1BC09-51EF-4D60-B94A-9BA2B8DEC1DE}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\ibolme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|c:\\users\\elcan\\desktop\\apa103\\06-interfaceabstraction\\interface\\ibolme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E90C909C-1DAC-5842-4F20-C843D2EB933A}|06-InterfaceAbstraction.csproj|solutionrelative:interface\\ibolme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -81,7 +81,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "IToplama.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\06-InterfaceAbstraction\\Interface\\IToplama.cs",
               "RelativeDocumentMoniker": "Interface\\IToplama.cs",
@@ -94,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "ICalculation.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\06-InterfaceAbstraction\\Interface\\ICalculation.cs",
               "RelativeDocumentMoniker": "Interface\\ICalculation.cs",
