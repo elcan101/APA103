@@ -1,0 +1,49 @@
+body {
+    background-color: #f4eee1; /* Şəkildəki kağız rənginə bənzər fon */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.vintage-container {
+    text-align: center;
+    border: 1px solid #d3c7b1;
+    padding: 50px;
+    background-image: url('paper-texture.jpg'); /* Kağız teksturası üçün */
+}
+
+.the {
+    font-family: 'Playfair Display', serif;
+    color: #b08d57; /* Qızılı/Qəhvəyi ton */
+    font-size: 24px;
+    letter-spacing: 5px;
+    display: block;
+    margin-bottom: -20px;
+}
+
+.hamilton {
+    font-family: 'Pinyon Script', cursive;
+    font-size: 120px;
+    color: #1a1a1a;
+    margin: 0;
+}
+
+.font-family {
+    font-family: 'Playfair Display', serif;
+    font-size: 30px;
+    letter-spacing: 12px;
+    color: #b08d57;
+    margin-top: 10px;
+}
+
+.styles {
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    letter-spacing: 4px;
+    border-top: 1px solid #1a1a1a;
+    border-bottom: 1px solid #1a1a1a;
+    display: inline-block;
+    padding: 5px 20px;
+}

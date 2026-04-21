@@ -1,0 +1,7 @@
+.container { padding: 50px; }
+.row { display: flex; align-items: center; margin-bottom: 40px; }
+.timer { color: #2b78d2; width: 300px; }
+.text { width: 500px; font-size: 18px; line-height: 1.5; }
+
+.serif { font-family: "Times New Roman", serif; }
+.cursive { font-family: 'Brush Script MT', cursive; font-style: italic; }
