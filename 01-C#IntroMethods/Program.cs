@@ -5,7 +5,7 @@
 //int findCount(string s,char c)
 //{
 //    int count = 0;
-//    for (int i = 1; i < s.Length-1; i++)
+//    for (int i = 0; i < s.Length-1; i++)
 //    {
 //        if (s[i]==c) 
 //        {
@@ -94,3 +94,4 @@
 //    }
 
 //}
+

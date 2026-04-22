@@ -46,6 +46,32 @@ class Program
 
         t2.ShowTruckInfo();
         Console.WriteLine("Fuel cost (800 km): " + t2.CalculateFuelCost(800));
-      
+
+        Console.WriteLine("\n--- Ssenari 5: Truck-a yük əlavə edilməsi ---");
+        Console.WriteLine($"Köhnə yük (MAN): {t1.CurrentLoad} ton");
+        t1.LoadCargo(5); 
+        Console.WriteLine($"Yeni yanacaq xərci (800 km üçün): {t1.CalculateFuelCost(800)} AZN");
+
+        
+        Console.WriteLine("\n--- Ssenari 6: Statistika ---");
+
+        int totalCount = 7; 
+        Console.WriteLine($"Ümumi nəqliyyat sayı: {totalCount}");
+
+        double totalMaxSpeed = car1.MaxSpeed + car2.MaxSpeed + car3.MaxSpeed +
+                               m1.MaxSpeed + m2.MaxSpeed +
+                               t1.MaxSpeed + t2.MaxSpeed;
+        double avgSpeed = totalMaxSpeed / totalCount;
+        Console.WriteLine($"Orta maksimum sürət: {avgSpeed:F2} km/saat");
+
+        double cost1 = t1.CalculateFuelCost(800);
+        double cost2 = t2.CalculateFuelCost(800);
+
+        if (cost1 > cost2)
+            Console.WriteLine($"Ən bahalı yanacaq xərci: {t1.Brand} {t1.Model} ({cost1} AZN)");
+        else
+            Console.WriteLine($"Ən bahalı yanacaq xərci: {t2.Brand} {t2.Model} ({cost2} AZN)");
+        
+
     }
 }

@@ -21,3 +21,37 @@ static void ArrayResize(ref  int[] numbers, params int[] numbers2)
         numbers[i] = numbers2[i];
     }
 }
+
+//using System;
+
+//class Program
+//{
+//    static void Main()
+//    {
+//        int[] numbers = new int[5]; // İlkin massiv
+//        int[] numbers2 = { 2, 5, 8, 11, 14, 20, 25 }; // Yeni elementlər (daha uzun ola bilər)
+
+//        ArrayResize(ref numbers, numbers2);
+
+//        // Nəticəni yoxlayaq
+//        foreach (int num in numbers)
+//        {
+//            Console.WriteLine(num);
+//        }
+//    }
+
+//    static void ArrayResize(ref int[] originalArray, int[] newElements)
+//    {
+//        // 1. Yeni ölçüdə massiv yaradırıq
+//        int[] newArray = new int[newElements.Length];
+
+//        // 2. Elementləri yeni massivə köçürürük
+//        for (int i = 0; i < newElements.Length; i++)
+//        {
+//            newArray[i] = newElements[i];
+//        }
+
+//        // 3. Orijinal massivi yeni massivlə əvəz edirik (ref sayəsində)
+//        originalArray = newArray;
+//    }
+//}

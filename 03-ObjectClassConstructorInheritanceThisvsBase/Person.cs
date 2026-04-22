@@ -6,11 +6,11 @@ namespace _03_ObjectClassConstructorInheritanceThisvsBase
 {
     internal class Person
     {
-        string FirstName;
-        string LastName;
-        int Age;
-        string Email;
-        string Id;
+       public string FirstName;
+        public string LastName;
+        public int Age;
+        public string Email;
+        public string Id;
 
 
         public Person(string firstname,string lastname, int age, string email,string id)
