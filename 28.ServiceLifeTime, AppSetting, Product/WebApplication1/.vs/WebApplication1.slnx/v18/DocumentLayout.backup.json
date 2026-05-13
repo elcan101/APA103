@@ -3,36 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\shared\\_layoutcshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layoutcshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\shared\\_layoutcshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layoutcshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:models\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:models\\slider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6C45DAD2-55EE-4F2C-BCA5-C53DE5FC9C8B}|WebApplication1.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|c:\\users\\elcan\\desktop\\apa103\\28.servicelifetime, appsetting, product\\webapplication1\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{19317912-AC4B-45A3-1276-85453B678B5B}|WebApplication1.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,37 +42,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layoutcshtml.css",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layoutcshtml.css",
               "RelativeDocumentMoniker": "Views\\Shared\\_Layoutcshtml.css",
               "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layoutcshtml.css",
               "RelativeToolTip": "Views\\Shared\\_Layoutcshtml.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2026-05-07T20:36:45.435Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "_Layout.cshtml",
-              "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
-              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
-              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AgIAANwEAAAAAAAAAAAkwPwEAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T20:34:12.969Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "_ViewImports.cshtml",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\_ViewImports.cshtml",
               "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
@@ -80,12 +67,11 @@
               "RelativeToolTip": "Views\\_ViewImports.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T20:32:12.876Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T20:32:12.876Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
@@ -93,12 +79,11 @@
               "RelativeToolTip": "Views\\Home\\Index.cshtml",
               "ViewState": "AgIAAHUJAAAAAAAAAAAswI8JAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2026-05-07T20:30:15.952Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T20:30:15.952Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "launchSettings.json",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "Properties\\launchSettings.json",
@@ -106,12 +91,11 @@
               "RelativeToolTip": "Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2026-05-07T20:27:47.909Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-05-07T20:27:47.909Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 0,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Models\\BaseEntity.cs",
               "RelativeDocumentMoniker": "Models\\BaseEntity.cs",
@@ -124,7 +108,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "Slider.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Models\\Slider.cs",
               "RelativeDocumentMoniker": "Models\\Slider.cs",
@@ -137,16 +121,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 1,
               "Title": "HomeController.cs",
               "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
               "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Controllers\\HomeController.cs",
               "RelativeToolTip": "Controllers\\HomeController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-05-07T20:23:15.08Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Elcan\\Desktop\\APA103\\28.ServiceLifeTime, AppSetting, Product\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAANwEAAAAAAAAAAAkwPwEAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-05-07T20:34:12.969Z"
             }
           ]
         }
